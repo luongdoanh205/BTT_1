@@ -1,0 +1,15 @@
+﻿@model List<string>
+<h2>Sản phẩm mới nhất</h2>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4">
+            <div class="thumbnail">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdpnKMj0OxQCjB2vvQ0-MjmQIvGlqM9LJplA&s" alt="@item" />
+                <div class="caption text-center">
+                    <p>@item</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

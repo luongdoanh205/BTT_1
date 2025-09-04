@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP_NET\\Book\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|d:\\asp_net\\book\\book\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|solutionrelative:book\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|d:\\asp_net\\book\\book\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|solutionrelative:book\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|d:\\asp_net\\book\\book\\viewcomponent\\hotproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|solutionrelative:book\\viewcomponent\\hotproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|d:\\asp_net\\book\\book\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|solutionrelative:book\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|d:\\asp_net\\book\\book\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|solutionrelative:book\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|d:\\asp_net\\book\\book\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|solutionrelative:book\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|d:\\asp_net\\book\\book\\views\\shared\\_categorypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|solutionrelative:book\\views\\shared\\_categorypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|d:\\asp_net\\book\\book\\views\\shared\\components\\hotproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|solutionrelative:book\\views\\shared\\components\\hotproduct\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|d:\\asp_net\\book\\book\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B171CAD-0CC9-420C-BE9C-3ADEF99A35DA}|Book\\Book.csproj|solutionrelative:book\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\ASP_NET\\Book\\Book\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Book\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\ASP_NET\\Book\\Book\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Book\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T10:41:29.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP_NET\\Book\\Book\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Book\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP_NET\\Book\\Book\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Book\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T09:28:29.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ASP_NET\\Book\\Book\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Book\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\ASP_NET\\Book\\Book\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Book\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T09:29:07.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotProductViewComponent.cs",
+              "DocumentMoniker": "D:\\ASP_NET\\Book\\Book\\ViewComponent\\HotProductViewComponent.cs",
+              "RelativeDocumentMoniker": "Book\\ViewComponent\\HotProductViewComponent.cs",
+              "ToolTip": "D:\\ASP_NET\\Book\\Book\\ViewComponent\\HotProductViewComponent.cs",
+              "RelativeToolTip": "Book\\ViewComponent\\HotProductViewComponent.cs",
+              "ViewState": "AgIAAAIAAADIMTMzMzMbwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:51:51.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP_NET\\Book\\Book\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Book\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP_NET\\Book\\Book\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Book\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:29:40.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP_NET\\Book\\Book\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Book\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP_NET\\Book\\Book\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Book\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABkAAAAgyszMzMwXwCUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T09:23:24.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_CategoryPartial.cshtml",
+              "DocumentMoniker": "D:\\ASP_NET\\Book\\Book\\Views\\Shared\\_CategoryPartial.cshtml",
+              "RelativeDocumentMoniker": "Book\\Views\\Shared\\_CategoryPartial.cshtml",
+              "ToolTip": "D:\\ASP_NET\\Book\\Book\\Views\\Shared\\_CategoryPartial.cshtml",
+              "RelativeToolTip": "Book\\Views\\Shared\\_CategoryPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T09:28:11.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\ASP_NET\\Book\\Book\\Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "RelativeDocumentMoniker": "Book\\Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "ToolTip": "D:\\ASP_NET\\Book\\Book\\Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "RelativeToolTip": "Book\\Views\\Shared\\Components\\HotProduct\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T10:26:33.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ASP_NET\\Book\\Book\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Book\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ASP_NET\\Book\\Book\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Book\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:52:24.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
