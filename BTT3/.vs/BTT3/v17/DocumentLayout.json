@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\BTT3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|d:\\net\\btt3\\btt3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|solutionrelative:btt3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|d:\\net\\btt3\\btt3\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|solutionrelative:btt3\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|d:\\net\\btt3\\btt3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|solutionrelative:btt3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|d:\\net\\btt3\\btt3\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|solutionrelative:btt3\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|d:\\net\\btt3\\btt3\\views\\shared\\_scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|solutionrelative:btt3\\views\\shared\\_scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|d:\\net\\btt3\\btt3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|solutionrelative:btt3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|d:\\net\\btt3\\btt3\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|solutionrelative:btt3\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|d:\\net\\btt3\\btt3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|solutionrelative:btt3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|d:\\net\\btt3\\btt3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|solutionrelative:btt3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|d:\\net\\btt3\\btt3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F9ECC14-875C-40D5-ABAB-EF59E4FC9890}|BTT3\\BTT3.csproj|solutionrelative:btt3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET\\BTT3\\BTT3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTT3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\NET\\BTT3\\BTT3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BTT3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAoAAADAMzMzM7MiwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T12:31:54.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Scripts.cshtml",
+              "DocumentMoniker": "D:\\NET\\BTT3\\BTT3\\Views\\Shared\\_Scripts.cshtml",
+              "RelativeDocumentMoniker": "BTT3\\Views\\Shared\\_Scripts.cshtml",
+              "ToolTip": "D:\\NET\\BTT3\\BTT3\\Views\\Shared\\_Scripts.cshtml",
+              "RelativeToolTip": "BTT3\\Views\\Shared\\_Scripts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T12:26:56.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\NET\\BTT3\\BTT3\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "BTT3\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\NET\\BTT3\\BTT3\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "BTT3\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T12:26:34.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "D:\\NET\\BTT3\\BTT3\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "BTT3\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "D:\\NET\\BTT3\\BTT3\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "BTT3\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T12:26:15.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\NET\\BTT3\\BTT3\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "BTT3\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "D:\\NET\\BTT3\\BTT3\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "BTT3\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T12:25:26.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NET\\BTT3\\BTT3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BTT3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NET\\BTT3\\BTT3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BTT3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T12:22:44.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\NET\\BTT3\\BTT3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BTT3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\NET\\BTT3\\BTT3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BTT3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:16:31.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NET\\BTT3\\BTT3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BTT3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NET\\BTT3\\BTT3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BTT3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T12:16:18.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NET\\BTT3\\BTT3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BTT3\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NET\\BTT3\\BTT3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BTT3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAZmZmZmb2vxoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:15:01.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\NET\\BTT3\\BTT3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BTT3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\NET\\BTT3\\BTT3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BTT3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T11:42:02.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
