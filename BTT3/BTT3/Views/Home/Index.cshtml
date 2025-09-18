@@ -1,41 +1,82 @@
 ﻿@{
-    ViewData["Title"] = "Dashboard";
+    ViewData["Title"] = "Người dùng";
     Layout = "~/Views/Shared/_Layout.cshtml";
 
-    var data = new List<dynamic>
-    {
-        new { id = 1, name = "Nguyen Van A", age = 25, country = "Vietnam" },
-        new { id = 2, name = "John Smith", age = 30, country = "USA" },
-        new { id = 3, name = "Sato Haruki", age = 22, country = "Japan" },
-        new { id = 4, name = "Marie Dupont", age = 28, country = "France" },
-        new { id = 5, name = "Hans Müller", age = 35, country = "Germany" },
-        new { id = 6, name = "Emily Brown", age = 19, country = "Canada" },
-        new { id = 7, name = "James Wilson", age = 27, country = "Australia" },
-        new { id = 8, name = "Oliver Taylor", age = 40, country = "UK" },
-        new { id = 9, name = "Kim Min-Jun", age = 32, country = "South Korea" },
-        new { id = 10, name = "Amit Sharma", age = 29, country = "India" }
-    };
+    var users = new List<dynamic>
+{
+    new { id = "B-0124", name = "Đoàn Văn Đức", unit = "Khối sản xuất", position = "Quản trị nhân sự", email = "ginsanghe@gmail.com", role = "Người sử dụng", status = "Đang hoạt động" },
+    new { id = "B-0125", name = "Đoàn Minh Nhật", unit = "Chi nhánh Hà Nội", position = "Truyền thông nội bộ", email = "blackkey21@gmail.com", role = "Người sử dụng", status = "Đang hoạt động" },
+    new { id = "B-0126", name = "Nguyễn Văn An", unit = "Khối CNTT", position = "Lập trình viên", email = "an.nguyen@gmail.com", role = "Quản trị viên", status = "Đang hoạt động" },
+    new { id = "B-0127", name = "Trần Thị Mai", unit = "Khối Kế toán", position = "Kế toán viên", email = "maitt@gmail.com", role = "Người sử dụng", status = "Đang hoạt động" },
+    new { id = "B-0128", name = "Phạm Văn Long", unit = "Chi nhánh Đà Nẵng", position = "Nhân viên kinh doanh", email = "longpv@gmail.com", role = "Người sử dụng", status = "Đang hoạt động" },
+    new { id = "B-0129", name = "Lê Hoàng Yến", unit = "Khối Marketing", position = "Chuyên viên Marketing", email = "yen.le@gmail.com", role = "Người sử dụng", status = "Đang hoạt động" },
+    new { id = "B-0130", name = "Hoàng Đức Anh", unit = "Chi nhánh Hải Phòng", position = "Hỗ trợ khách hàng", email = "ducanh@gmail.com", role = "Người sử dụng", status = "Ngưng hoạt động" },
+    new { id = "B-0131", name = "Ngô Văn Hùng", unit = "Khối Kỹ thuật", position = "Kỹ sư hệ thống", email = "hungnv@gmail.com", role = "Quản trị viên", status = "Đang hoạt động" }
+};
+
 }
 
-<table border="1" cellpadding="8" cellspacing="0">
-    <thead>
-        <tr>
-            <th>ID</th>
-            <th>Name</th>
-            <th>Age</th>
-            <th>Country</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in data)
-        {
-            <tr>
-                <td>@item.id</td>
-                <td>@item.name</td>
-                <td>@item.age</td>
-                <td>@item.country</td>
-            </tr>
-        }
-    </tbody>
-</table>
- 
+<div class="card">
+    <div class="card-header">
+        <input type="text" id="searchBox" class="form-control" placeholder="Tìm kiếm người dùng..." />
+    </div>
+    <div class="card-body p-0">
+        <table class="table table-striped mb-0" id="userTable">
+            <thead class="table-light">
+                <tr>
+                    <th>Mã NV</th>
+                    <th>Họ và tên</th>
+                    <th>Đơn vị</th>
+                    <th>Vị trí</th>
+                    <th>Email</th>
+                    <th>Vai trò</th>
+                    <th>Trạng thái</th>
+                    <th>Hành động</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in users)
+                {
+                    <tr>
+                        <td>@user.id</td>
+                        <td>@user.name</td>
+                        <td>@user.unit</td>
+                        <td>@user.position</td>
+                        <td>@user.email</td>
+                        <td>@user.role</td>
+                        <td><span class="badge bg-success">@user.status</span></td>
+                        <td>
+                            <button class="btn btn-sm btn-danger delete-btn">
+                                <i class="fa fa-trash">xóa</i>
+                            </button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // 🔍 Tìm kiếm
+        document.getElementById("searchBox").addEventListener("keyup", function () {
+            let value = this.value.toLowerCase();
+            let rows = document.querySelectorAll("#userTable tbody tr");
+
+            rows.forEach(row => {
+                let text = row.innerText.toLowerCase();
+                row.style.display = text.includes(value) ? "" : "none";
+            });
+        });
+
+        // 🗑️ Xóa dòng
+        document.querySelectorAll(".delete-btn").forEach(btn => {
+            btn.addEventListener("click", function () {
+                if (confirm("Bạn có chắc chắn muốn xóa người dùng này?")) {
+                    this.closest("tr").remove();
+                }
+            });
+        });
+    </script>
+}
