@@ -6,20 +6,20 @@
 
     <title>@ViewData["Title"] - Admin</title>
 
-    <!-- AdminLTE CSS -->
+   
     <link rel="stylesheet" href="~/lib/admin-lte/css/adminlte.min.css" />
     <link rel="stylesheet" href="~/lib/admin-lte/plugins/fontawesome-free/css/all.min.css" />
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
     <div class="wrapper">
 
-        <!-- Header -->
+       
         @Html.Partial("_Header")
 
-        <!-- Sidebar -->
+       
         @Html.Partial("_Sidebar")
 
-        <!-- Content Wrapper -->
+       
         <div class="content-wrapper">
             <section class="content">
                 <div class="container-fluid pt-3">
@@ -28,12 +28,12 @@
             </section>
         </div>
 
-        <!-- Footer -->
+    
         @Html.Partial("_Footer")
 
     </div>
 
-    <!-- Scripts -->
+
     @Html.Partial("_Scripts")
     @RenderSection("Scripts", required: false)
 </body>
