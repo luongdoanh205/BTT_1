@@ -59,7 +59,6 @@
 
 @section Scripts {
     <script>
-        // 🔍 Tìm kiếm
         document.getElementById("searchBox").addEventListener("keyup", function () {
             let value = this.value.toLowerCase();
             let rows = document.querySelectorAll("#userTable tbody tr");
@@ -70,7 +69,6 @@
             });
         });
 
-        // 🗑️ Xóa dòng
         document.querySelectorAll(".delete-btn").forEach(btn => {
             btn.addEventListener("click", function () {
                 if (confirm("Bạn có chắc chắn muốn xóa người dùng này?")) {
