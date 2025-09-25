@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\BTT5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|d:\\net\\btt5\\btt5\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|solutionrelative:btt5\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|d:\\net\\btt5\\btt5\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|solutionrelative:btt5\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|d:\\net\\btt5\\btt5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|solutionrelative:btt5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|d:\\net\\btt5\\btt5\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|solutionrelative:btt5\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|d:\\net\\btt5\\btt5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|solutionrelative:btt5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|d:\\net\\btt5\\btt5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|solutionrelative:btt5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|d:\\net\\btt5\\btt5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|solutionrelative:btt5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|d:\\net\\btt5\\btt5\\models\\employeeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED864B16-268B-434D-9474-8AEA17D17882}|BTT5\\BTT5.csproj|solutionrelative:btt5\\models\\employeeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NET\\BTT5\\BTT5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BTT5\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NET\\BTT5\\BTT5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BTT5\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:33:38.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\NET\\BTT5\\BTT5\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BTT5\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\NET\\BTT5\\BTT5\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BTT5\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:30:16.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET\\BTT5\\BTT5\\Program.cs",
+              "RelativeDocumentMoniker": "BTT5\\Program.cs",
+              "ToolTip": "D:\\NET\\BTT5\\BTT5\\Program.cs",
+              "RelativeToolTip": "BTT5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:23:41.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\NET\\BTT5\\BTT5\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BTT5\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\NET\\BTT5\\BTT5\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BTT5\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T12:23:33.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NET\\BTT5\\BTT5\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BTT5\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NET\\BTT5\\BTT5\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BTT5\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T12:23:22.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET\\BTT5\\BTT5\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTT5\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\NET\\BTT5\\BTT5\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "BTT5\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T12:19:15.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\NET\\BTT5\\BTT5\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "BTT5\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\NET\\BTT5\\BTT5\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "BTT5\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAcAAACgmZmZmZkdwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:17:39.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeApp.cs",
+              "DocumentMoniker": "D:\\NET\\BTT5\\BTT5\\Models\\EmployeeApp.cs",
+              "RelativeDocumentMoniker": "BTT5\\Models\\EmployeeApp.cs",
+              "ToolTip": "D:\\NET\\BTT5\\BTT5\\Models\\EmployeeApp.cs",
+              "RelativeToolTip": "BTT5\\Models\\EmployeeApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:15:45.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+﻿@model IEnumerable<EmployeeApp.Models.Employee>
+
+<h2>Employee List</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Full Name</th>
+            <th>Gender</th>
+            <th>Phone</th>
+            <th>Email</th>
+            <th>Salary</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <td>@emp.Id</td>
+                <td>@emp.FullName</td>
+                <td>@emp.Gender</td>
+                <td>@emp.Phone</td>
+                <td>@emp.Email</td>
+                <td>@emp.Salary</td>
+                <td>@emp.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<hr />
+
+<h2>Salary Statistics</h2>
+<canvas id="salaryChart" width="400" height="200"></canvas>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const ctx = document.getElementById('salaryChart');
+
+        // Lấy dữ liệu từ Model (C# -> JS)
+        const labels = @Html.Raw(System.Text.Json.JsonSerializer.Serialize(Model.Select(e => e.FullName)));
+        const salaries = @Html.Raw(System.Text.Json.JsonSerializer.Serialize(Model.Select(e => e.Salary)));
+
+        new Chart(ctx, {
+            type: 'bar', // hoặc 'pie', 'line'
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Salary',
+                    data: salaries,
+                    borderWidth: 1,
+                    backgroundColor: ['#4e79a7', '#f28e2b', '#e15759', '#76b7b2', '#59a14f']
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: { display: false }
+                },
+                scales: {
+                    y: { beginAtZero: true }
+                }
+            }
+        });
+    </script>
+}
