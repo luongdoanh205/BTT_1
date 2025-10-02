@@ -1,0 +1,75 @@
+﻿@model IEnumerable<BTT6.Models.Account>
+@{
+    ViewData["Title"] = "Danh sách tài khoản";
+}
+
+<h2>Danh sách tài khoản</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Tạo mới</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Ảnh đại diện</th>
+            <th>Họ và tên</th>
+            <th>Email</th>
+            <th>Số điện thoại</th>
+            <th>Địa chỉ</th>
+            <th>Ngày sinh</th>
+            <th>Giới tính</th>
+            <th>Facebook</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.Avatar))
+                        {
+                            <img src="@item.Avatar" alt="Avatar" style="width: 50px; height: 50px; object-fit: cover; border-radius: 50%;" />
+                        }
+                        else
+                        {
+                            <span>Chưa có</span>
+                        }
+                    </td>
+                    <td>@item.FullName</td>
+                    <td>@item.Email</td>
+                    <td>@item.Phone</td>
+                    <td>@item.Address</td>
+                    <td>@item.Birthday.ToString("dd/MM/yyyy")</td>
+                    <td>@item.Gender</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.Facebook))
+                        {
+                            <a href="@item.Facebook" target="_blank">Xem Facebook</a>
+                        }
+                        else
+                        {
+                            <span>Chưa có</span>
+                        }
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Sửa</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">Chi tiết</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger" onclick="return confirm('Bạn có chắc chắn muốn xóa?')">Xóa</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="10" class="text-center">Chưa có dữ liệu</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\BTT6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D64FCC-8A8F-4B9F-8D91-B810B5E1C3D5}|BTT6\\BTT6.csproj|d:\\net\\btt6\\btt6\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D64FCC-8A8F-4B9F-8D91-B810B5E1C3D5}|BTT6\\BTT6.csproj|solutionrelative:btt6\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D64FCC-8A8F-4B9F-8D91-B810B5E1C3D5}|BTT6\\BTT6.csproj|d:\\net\\btt6\\btt6\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D64FCC-8A8F-4B9F-8D91-B810B5E1C3D5}|BTT6\\BTT6.csproj|solutionrelative:btt6\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D64FCC-8A8F-4B9F-8D91-B810B5E1C3D5}|BTT6\\BTT6.csproj|d:\\net\\btt6\\btt6\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7D64FCC-8A8F-4B9F-8D91-B810B5E1C3D5}|BTT6\\BTT6.csproj|solutionrelative:btt6\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D64FCC-8A8F-4B9F-8D91-B810B5E1C3D5}|BTT6\\BTT6.csproj|d:\\net\\btt6\\btt6\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7D64FCC-8A8F-4B9F-8D91-B810B5E1C3D5}|BTT6\\BTT6.csproj|solutionrelative:btt6\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D64FCC-8A8F-4B9F-8D91-B810B5E1C3D5}|BTT6\\BTT6.csproj|d:\\net\\btt6\\btt6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D64FCC-8A8F-4B9F-8D91-B810B5E1C3D5}|BTT6\\BTT6.csproj|solutionrelative:btt6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NET\\BTT6\\BTT6\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "BTT6\\Views\\Account\\Create.cshtml",
+              "ToolTip": "D:\\NET\\BTT6\\BTT6\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "BTT6\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAADIAAACAy8zMzAwswEsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T15:14:57.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET\\BTT6\\BTT6\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTT6\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\NET\\BTT6\\BTT6\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "BTT6\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAEUAAACAMzMzMzMrwEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-02T14:22:16.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\NET\\BTT6\\BTT6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BTT6\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\NET\\BTT6\\BTT6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BTT6\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:20:54.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\NET\\BTT6\\BTT6\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BTT6\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\NET\\BTT6\\BTT6\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BTT6\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEgAAAAAnJmZmZkJwE4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:55:06.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\NET\\BTT6\\BTT6\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BTT6\\Models\\Account.cs",
+              "ToolTip": "D:\\NET\\BTT6\\BTT6\\Models\\Account.cs",
+              "RelativeToolTip": "BTT6\\Models\\Account.cs",
+              "ViewState": "AgIAAA0AAABAmZmZmVkpwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:11:33.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
