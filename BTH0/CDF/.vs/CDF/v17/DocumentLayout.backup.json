@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\CDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|d:\\net\\cdf\\cdf\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|solutionrelative:cdf\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|d:\\net\\cdf\\cdf\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|solutionrelative:cdf\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|d:\\net\\cdf\\cdf\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|solutionrelative:cdf\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|d:\\net\\cdf\\cdf\\migrations\\20251012140351_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|solutionrelative:cdf\\migrations\\20251012140351_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|d:\\net\\cdf\\cdf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|solutionrelative:cdf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|d:\\net\\cdf\\cdf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|solutionrelative:cdf\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|d:\\net\\cdf\\cdf\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|solutionrelative:cdf\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|d:\\net\\cdf\\cdf\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|solutionrelative:cdf\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|d:\\net\\cdf\\cdf\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|solutionrelative:cdf\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|d:\\net\\cdf\\cdf\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|solutionrelative:cdf\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|d:\\net\\cdf\\cdf\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|solutionrelative:cdf\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|d:\\net\\cdf\\cdf\\models\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|solutionrelative:cdf\\models\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|d:\\net\\cdf\\cdf\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39777A4-7C02-428B-BF90-DB194AAC61B6}|CDF\\CDF.csproj|solutionrelative:cdf\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "D:\\NET\\CDF\\CDF\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "CDF\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "D:\\NET\\CDF\\CDF\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "CDF\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:28:52.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoaiSanPhamsController.cs",
+              "DocumentMoniker": "D:\\NET\\CDF\\CDF\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeDocumentMoniker": "CDF\\Controllers\\LoaiSanPhamsController.cs",
+              "ToolTip": "D:\\NET\\CDF\\CDF\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeToolTip": "CDF\\Controllers\\LoaiSanPhamsController.cs",
+              "ViewState": "AgIAAA0AAABgmZmZmZklwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:26:43.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KhachHangsController.cs",
+              "DocumentMoniker": "D:\\NET\\CDF\\CDF\\Controllers\\KhachHangsController.cs",
+              "RelativeDocumentMoniker": "CDF\\Controllers\\KhachHangsController.cs",
+              "ToolTip": "D:\\NET\\CDF\\CDF\\Controllers\\KhachHangsController.cs",
+              "RelativeToolTip": "CDF\\Controllers\\KhachHangsController.cs",
+              "ViewState": "AgIAAC4AAADA/v///z8rwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:12:08.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251012140351_Init.cs",
+              "DocumentMoniker": "D:\\NET\\CDF\\CDF\\Migrations\\20251012140351_Init.cs",
+              "RelativeDocumentMoniker": "CDF\\Migrations\\20251012140351_Init.cs",
+              "ToolTip": "D:\\NET\\CDF\\CDF\\Migrations\\20251012140351_Init.cs",
+              "RelativeToolTip": "CDF\\Migrations\\20251012140351_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:03:52.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET\\CDF\\CDF\\Program.cs",
+              "RelativeDocumentMoniker": "CDF\\Program.cs",
+              "ToolTip": "D:\\NET\\CDF\\CDF\\Program.cs",
+              "RelativeToolTip": "CDF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:01:37.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NET\\CDF\\CDF\\appsettings.json",
+              "RelativeDocumentMoniker": "CDF\\appsettings.json",
+              "ToolTip": "D:\\NET\\CDF\\CDF\\appsettings.json",
+              "RelativeToolTip": "CDF\\appsettings.json",
+              "ViewState": "AgIAAAAAAABAMzMzMzMLwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T13:59:47.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\NET\\CDF\\CDF\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CDF\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\NET\\CDF\\CDF\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "CDF\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAACEAAAAA//////8YwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:59:03.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\NET\\CDF\\CDF\\Models\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "CDF\\Models\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\NET\\CDF\\CDF\\Models\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "CDF\\Models\\ChiTietHoaDon.cs",
+              "ViewState": "AgIAABIAAAAQMzMzM3MjwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:57:28.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\NET\\CDF\\CDF\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "CDF\\Models\\HoaDon.cs",
+              "ToolTip": "D:\\NET\\CDF\\CDF\\Models\\HoaDon.cs",
+              "RelativeToolTip": "CDF\\Models\\HoaDon.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:56:55.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\NET\\CDF\\CDF\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "CDF\\Models\\SanPham.cs",
+              "ToolTip": "D:\\NET\\CDF\\CDF\\Models\\SanPham.cs",
+              "RelativeToolTip": "CDF\\Models\\SanPham.cs",
+              "ViewState": "AgIAABoAAAAAzszMzMwEwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:56:07.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoaiSanPham.cs",
+              "DocumentMoniker": "D:\\NET\\CDF\\CDF\\Models\\LoaiSanPham.cs",
+              "RelativeDocumentMoniker": "CDF\\Models\\LoaiSanPham.cs",
+              "ToolTip": "D:\\NET\\CDF\\CDF\\Models\\LoaiSanPham.cs",
+              "RelativeToolTip": "CDF\\Models\\LoaiSanPham.cs",
+              "ViewState": "AgIAAAgAAABQZmZmZmY4wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:55:14.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\NET\\CDF\\CDF\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "CDF\\Models\\KhachHang.cs",
+              "ToolTip": "D:\\NET\\CDF\\CDF\\Models\\KhachHang.cs",
+              "RelativeToolTip": "CDF\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:54:16.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuanTri.cs",
+              "DocumentMoniker": "D:\\NET\\CDF\\CDF\\Models\\QuanTri.cs",
+              "RelativeDocumentMoniker": "CDF\\Models\\QuanTri.cs",
+              "ToolTip": "D:\\NET\\CDF\\CDF\\Models\\QuanTri.cs",
+              "RelativeToolTip": "CDF\\Models\\QuanTri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:53:13.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
