@@ -1,0 +1,47 @@
+﻿@model IEnumerable<LVDDay9.Models.LvdLoai_San_Pham>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.lvdMaLoai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lvdTenLoai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.lvdTrangThai)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.lvdMaLoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.lvdTenLoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.lvdTrangThai)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.lvdId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.lvdId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.lvdId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

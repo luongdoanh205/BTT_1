@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\LVDDay9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|d:\\net\\lvdday9\\lvdday9\\views\\lvdloai_san_pham\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|solutionrelative:lvdday9\\views\\lvdloai_san_pham\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|d:\\net\\lvdday9\\lvdday9\\controllers\\lvdloai_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|solutionrelative:lvdday9\\controllers\\lvdloai_san_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|d:\\net\\lvdday9\\lvdday9\\views\\lvdloai_san_pham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|solutionrelative:lvdday9\\views\\lvdloai_san_pham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|d:\\net\\lvdday9\\lvdday9\\views\\lvdloai_san_pham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|solutionrelative:lvdday9\\views\\lvdloai_san_pham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|d:\\net\\lvdday9\\lvdday9\\models\\lvdday9context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|solutionrelative:lvdday9\\models\\lvdday9context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|d:\\net\\lvdday9\\lvdday9\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|solutionrelative:lvdday9\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|d:\\net\\lvdday9\\lvdday9\\models\\lvdloai_san_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|solutionrelative:lvdday9\\models\\lvdloai_san_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|d:\\net\\lvdday9\\lvdday9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|solutionrelative:lvdday9\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|d:\\net\\lvdday9\\lvdday9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|solutionrelative:lvdday9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|d:\\net\\lvdday9\\lvdday9\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|solutionrelative:lvdday9\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|d:\\net\\lvdday9\\lvdday9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|solutionrelative:lvdday9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|d:\\net\\lvdday9\\lvdday9\\models\\lvdsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|solutionrelative:lvdday9\\models\\lvdsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|d:\\net\\lvdday9\\lvdday9\\views\\lvdloai_san_pham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|solutionrelative:lvdday9\\views\\lvdloai_san_pham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|d:\\net\\lvdday9\\lvdday9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|solutionrelative:lvdday9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|d:\\net\\lvdday9\\lvdday9\\migrations\\20251017145239_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334BE362-A652-442A-9559-62D39D95A6E9}|LVDDay9\\LVDDay9.csproj|solutionrelative:lvdday9\\migrations\\20251017145239_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\LvdLoai_San_Pham\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LVDDay9\\Views\\LvdLoai_San_Pham\\Delete.cshtml",
+              "ToolTip": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\LvdLoai_San_Pham\\Delete.cshtml",
+              "RelativeToolTip": "LVDDay9\\Views\\LvdLoai_San_Pham\\Delete.cshtml",
+              "ViewState": "AgIAAA4AAADAMTMzMzMbwB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T15:47:40.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\LvdLoai_San_Pham\\Index.cshtml",
+              "RelativeDocumentMoniker": "LVDDay9\\Views\\LvdLoai_San_Pham\\Index.cshtml",
+              "ToolTip": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\LvdLoai_San_Pham\\Index.cshtml",
+              "RelativeToolTip": "LVDDay9\\Views\\LvdLoai_San_Pham\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T15:30:17.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\LvdLoai_San_Pham\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LVDDay9\\Views\\LvdLoai_San_Pham\\Edit.cshtml",
+              "ToolTip": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\LvdLoai_San_Pham\\Edit.cshtml",
+              "RelativeToolTip": "LVDDay9\\Views\\LvdLoai_San_Pham\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T15:33:48.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LVDDay9\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LVDDay9\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T15:15:20.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LVDDay9\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LVDDay9\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T15:10:34.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LvdLoai_San_PhamController.cs",
+              "DocumentMoniker": "D:\\NET\\LVDDay9\\LVDDay9\\Controllers\\LvdLoai_San_PhamController.cs",
+              "RelativeDocumentMoniker": "LVDDay9\\Controllers\\LvdLoai_San_PhamController.cs",
+              "ToolTip": "D:\\NET\\LVDDay9\\LVDDay9\\Controllers\\LvdLoai_San_PhamController.cs",
+              "RelativeToolTip": "LVDDay9\\Controllers\\LvdLoai_San_PhamController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAUwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T15:02:32.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LVDDay9Context.cs",
+              "DocumentMoniker": "D:\\NET\\LVDDay9\\LVDDay9\\Models\\LVDDay9Context.cs",
+              "RelativeDocumentMoniker": "LVDDay9\\Models\\LVDDay9Context.cs",
+              "ToolTip": "D:\\NET\\LVDDay9\\LVDDay9\\Models\\LVDDay9Context.cs",
+              "RelativeToolTip": "LVDDay9\\Models\\LVDDay9Context.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:23:51.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LVDDay9\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LVDDay9\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T15:14:20.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LvdLoai_San_Pham.cs",
+              "DocumentMoniker": "D:\\NET\\LVDDay9\\LVDDay9\\Models\\LvdLoai_San_Pham.cs",
+              "RelativeDocumentMoniker": "LVDDay9\\Models\\LvdLoai_San_Pham.cs",
+              "ToolTip": "D:\\NET\\LVDDay9\\LVDDay9\\Models\\LvdLoai_San_Pham.cs",
+              "RelativeToolTip": "LVDDay9\\Models\\LvdLoai_San_Pham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:41:03.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LVDDay9\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LVDDay9\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T15:10:37.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\LvdLoai_San_Pham\\Create.cshtml",
+              "RelativeDocumentMoniker": "LVDDay9\\Views\\LvdLoai_San_Pham\\Create.cshtml",
+              "ToolTip": "D:\\NET\\LVDDay9\\LVDDay9\\Views\\LvdLoai_San_Pham\\Create.cshtml",
+              "RelativeToolTip": "LVDDay9\\Views\\LvdLoai_San_Pham\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T15:06:17.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251017145239_InitialCreate.cs",
+              "DocumentMoniker": "D:\\NET\\LVDDay9\\LVDDay9\\Migrations\\20251017145239_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LVDDay9\\Migrations\\20251017145239_InitialCreate.cs",
+              "ToolTip": "D:\\NET\\LVDDay9\\LVDDay9\\Migrations\\20251017145239_InitialCreate.cs",
+              "RelativeToolTip": "LVDDay9\\Migrations\\20251017145239_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:52:40.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET\\LVDDay9\\LVDDay9\\Program.cs",
+              "RelativeDocumentMoniker": "LVDDay9\\Program.cs",
+              "ToolTip": "D:\\NET\\LVDDay9\\LVDDay9\\Program.cs",
+              "RelativeToolTip": "LVDDay9\\Program.cs",
+              "ViewState": "AgIAABYAAADAzMzMzMwqwCEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:30:43.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NET\\LVDDay9\\LVDDay9\\appsettings.json",
+              "RelativeDocumentMoniker": "LVDDay9\\appsettings.json",
+              "ToolTip": "D:\\NET\\LVDDay9\\LVDDay9\\appsettings.json",
+              "RelativeToolTip": "LVDDay9\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T14:29:38.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LvdSan_Pham.cs",
+              "DocumentMoniker": "D:\\NET\\LVDDay9\\LVDDay9\\Models\\LvdSan_Pham.cs",
+              "RelativeDocumentMoniker": "LVDDay9\\Models\\LvdSan_Pham.cs",
+              "ToolTip": "D:\\NET\\LVDDay9\\LVDDay9\\Models\\LvdSan_Pham.cs",
+              "RelativeToolTip": "LVDDay9\\Models\\LvdSan_Pham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:13:10.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+﻿@model LVDDay9.Models.LvdLoai_San_Pham
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>LvdLoai_San_Pham</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" asp-route-id="@Model.lvdId" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="lvdId" />
+            <div class="form-group">
+                <label asp-for="lvdMaLoai" class="control-label"></label>
+                <input asp-for="lvdMaLoai" class="form-control" />
+                <span asp-validation-for="lvdMaLoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="lvdTenLoai" class="control-label"></label>
+                <input asp-for="lvdTenLoai" class="form-control" />
+                <span asp-validation-for="lvdTenLoai" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="lvdTrangThai" /> @Html.DisplayNameFor(model => model.lvdTrangThai)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
