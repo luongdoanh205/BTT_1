@@ -1,0 +1,75 @@
+﻿@model Student
+
+<form asp-controller="Student" asp-action="Add" method="post" class="mt-3">
+    <div class="form-group row">
+        <label asp-for="Name" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <input asp-for="Name" class="form-control" placeholder="Họ tên" />
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="Email" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <input asp-for="Email" class="form-control" placeholder="Email" />
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="Password" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <input asp-for="Password" type="password" class="form-control" placeholder="Password" />
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="Branch" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <select asp-for="Branch" class="custom-select mr-sm-2"
+                    asp-items="@Html.GetEnumSelectList<Branch>()">
+            </select>
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="IsRegular" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <input type="checkbox" asp-for="IsRegular" class="form-check-input" />
+            <label class="form-check-label" for="IsRegular">Hệ chính quy</label>
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="DateOfBirth" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <input asp-for="DateOfBirth" type="date" class="form-control" />
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="Gender" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            @foreach (var gender in ViewBag.AllGenders)
+            {
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" asp-for="Gender" value="@gender" />
+                    <label class="form-check-label">@gender</label>
+                </div>
+            }
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="Address" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <textarea asp-for="Address" class="form-control" placeholder="Địa chỉ"></textarea>
+        </div>
+    </div>
+
+    <div class="form-group row mt-3">
+        <div class="col-sm-10">
+            <button type="submit" class="btn btn-success">Add Student</button>
+            <a asp-controller="Student" asp-action="List" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</form>
