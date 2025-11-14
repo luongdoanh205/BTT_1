@@ -1,17 +1,20 @@
 ﻿@model Student
-
+<div asp-validation-summary="All" class="text-danger"></div>
 <form asp-controller="Student" asp-action="Add" method="post" class="mt-3">
     <div class="form-group row">
         <label asp-for="Name" class="col-sm-2 col-form-label"></label>
         <div class="col-sm-10">
             <input asp-for="Name" class="form-control" placeholder="Họ tên" />
+            <span asp-validation-for="Name" class="text-danger"></span>
         </div>
+
     </div>
 
     <div class="form-group row">
         <label asp-for="Email" class="col-sm-2 col-form-label"></label>
         <div class="col-sm-10">
             <input asp-for="Email" class="form-control" placeholder="Email" />
+            <span asp-validation-for="Email" class="text-danger"></span>
         </div>
     </div>
 
@@ -19,6 +22,7 @@
         <label asp-for="Password" class="col-sm-2 col-form-label"></label>
         <div class="col-sm-10">
             <input asp-for="Password" type="password" class="form-control" placeholder="Password" />
+            <span asp-validation-for="Password" class="text-danger"></span>
         </div>
     </div>
 
@@ -36,6 +40,7 @@
         <div class="col-sm-10">
             <input type="checkbox" asp-for="IsRegular" class="form-check-input" />
             <label class="form-check-label" for="IsRegular">Hệ chính quy</label>
+            <span asp-validation-for="IsRegular" class="text-danger"></span>
         </div>
     </div>
 
@@ -43,6 +48,7 @@
         <label asp-for="DateOfBirth" class="col-sm-2 col-form-label"></label>
         <div class="col-sm-10">
             <input asp-for="DateOfBirth" type="date" class="form-control" />
+            <span asp-validation-for="DateOfBirth" class="text-danger"></span>
         </div>
     </div>
 
@@ -54,9 +60,11 @@
                 <div class="form-check form-check-inline">
                     <input class="form-check-input" type="radio" asp-for="Gender" value="@gender" />
                     <label class="form-check-label">@gender</label>
+
                 </div>
             }
         </div>
+        <span asp-validation-for="Gender" class="text-danger"></span>
     </div>
 
     <div class="form-group row">

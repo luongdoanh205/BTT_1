@@ -52,11 +52,27 @@ namespace D12TH_1.Controllers
 
         // POST: /Admin/Student/Add
         [HttpPost("Add")]
-        public IActionResult Add(Student s)
+        public IActionResult Create(Student s)
         {
-            s.Id = listStudents.Last().Id + 1;
-            listStudents.Add(s);
-            return View("Index", listStudents);
+            if (ModelState.IsValid)
+            {
+                s.Id = listStudents.Last<Student>().Id + 1;
+                listStudents.Add(s);
+                return View("Index", listStudents);
+            }
+
+            // Nếu ModelState không hợp lệ, tải lại dữ liệu cần thiết cho form
+            ViewBag.AllGenders = Enum.GetValues(typeof(Gender)).Cast<Gender>().ToList();
+
+                ViewBag.AllBranches = new List<SelectListItem>()
+        {
+            new SelectListItem { Text = "IT", Value = "1" },
+            new SelectListItem { Text = "BE", Value = "2" },
+            new SelectListItem { Text = "CE", Value = "3" },
+            new SelectListItem { Text = "EE", Value = "4" }
+        };
+
+                return View();
         }
     }
 }
