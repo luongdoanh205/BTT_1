@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET\\DAY13_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|d:\\net\\day13_1\\day13_1\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|solutionrelative:day13_1\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|d:\\net\\day13_1\\day13_1\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|solutionrelative:day13_1\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|d:\\net\\day13_1\\day13_1\\views\\shared\\components\\render\\_leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|solutionrelative:day13_1\\views\\shared\\components\\render\\_leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|d:\\net\\day13_1\\day13_1\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|solutionrelative:day13_1\\views\\shared\\components\\major\\rendermajor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|d:\\net\\day13_1\\day13_1\\viewcomponent\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|solutionrelative:day13_1\\viewcomponent\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|d:\\net\\day13_1\\day13_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|solutionrelative:day13_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|d:\\net\\day13_1\\day13_1\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|solutionrelative:day13_1\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|d:\\net\\day13_1\\day13_1\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|solutionrelative:day13_1\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|d:\\net\\day13_1\\day13_1\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|solutionrelative:day13_1\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|d:\\net\\day13_1\\day13_1\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|solutionrelative:day13_1\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|d:\\net\\day13_1\\day13_1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|solutionrelative:day13_1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|d:\\net\\day13_1\\day13_1\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|solutionrelative:day13_1\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|d:\\net\\day13_1\\day13_1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C89094-3EDA-4E9F-8FDA-329C99F94FED}|DAY13_1\\DAY13_1.csproj|solutionrelative:day13_1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LeftMenu.cshtml",
+              "DocumentMoniker": "D:\\NET\\DAY13_1\\DAY13_1\\Views\\Shared\\Components\\Render\\_LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "DAY13_1\\Views\\Shared\\Components\\Render\\_LeftMenu.cshtml",
+              "ToolTip": "D:\\NET\\DAY13_1\\DAY13_1\\Views\\Shared\\Components\\Render\\_LeftMenu.cshtml*",
+              "RelativeToolTip": "DAY13_1\\Views\\Shared\\Components\\Render\\_LeftMenu.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T14:13:32.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RenderMajor.cshtml",
+              "DocumentMoniker": "D:\\NET\\DAY13_1\\DAY13_1\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "RelativeDocumentMoniker": "DAY13_1\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml",
+              "ToolTip": "D:\\NET\\DAY13_1\\DAY13_1\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml*",
+              "RelativeToolTip": "DAY13_1\\Views\\Shared\\Components\\Major\\RenderMajor.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T14:09:46.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MajorViewComponent.cs",
+              "DocumentMoniker": "D:\\NET\\DAY13_1\\DAY13_1\\ViewComponent\\MajorViewComponent.cs",
+              "RelativeDocumentMoniker": "DAY13_1\\ViewComponent\\MajorViewComponent.cs",
+              "ToolTip": "D:\\NET\\DAY13_1\\DAY13_1\\ViewComponent\\MajorViewComponent.cs*",
+              "RelativeToolTip": "DAY13_1\\ViewComponent\\MajorViewComponent.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T13:43:03.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\NET\\DAY13_1\\DAY13_1\\Views\\Learners\\Index.cshtml",
+              "RelativeDocumentMoniker": "DAY13_1\\Views\\Learners\\Index.cshtml",
+              "ToolTip": "D:\\NET\\DAY13_1\\DAY13_1\\Views\\Learners\\Index.cshtml*",
+              "RelativeToolTip": "DAY13_1\\Views\\Learners\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T14:55:57.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LearnersController.cs",
+              "DocumentMoniker": "D:\\NET\\DAY13_1\\DAY13_1\\Controllers\\LearnersController.cs",
+              "RelativeDocumentMoniker": "DAY13_1\\Controllers\\LearnersController.cs",
+              "ToolTip": "D:\\NET\\DAY13_1\\DAY13_1\\Controllers\\LearnersController.cs*",
+              "RelativeToolTip": "DAY13_1\\Controllers\\LearnersController.cs*",
+              "ViewState": "AgIAAIoAAAAANDMzMzMSwKsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:54:02.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NET\\DAY13_1\\DAY13_1\\Program.cs",
+              "RelativeDocumentMoniker": "DAY13_1\\Program.cs",
+              "ToolTip": "D:\\NET\\DAY13_1\\DAY13_1\\Program.cs",
+              "RelativeToolTip": "DAY13_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:44:58.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBInitializer.cs",
+              "DocumentMoniker": "D:\\NET\\DAY13_1\\DAY13_1\\Models\\DBInitializer.cs",
+              "RelativeDocumentMoniker": "DAY13_1\\Models\\DBInitializer.cs",
+              "ToolTip": "D:\\NET\\DAY13_1\\DAY13_1\\Models\\DBInitializer.cs",
+              "RelativeToolTip": "DAY13_1\\Models\\DBInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:44:23.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\NET\\DAY13_1\\DAY13_1\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "DAY13_1\\Models\\SchoolContext.cs",
+              "ToolTip": "D:\\NET\\DAY13_1\\DAY13_1\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "DAY13_1\\Models\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:42:23.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\NET\\DAY13_1\\DAY13_1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DAY13_1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\NET\\DAY13_1\\DAY13_1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DAY13_1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:41:38.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\NET\\DAY13_1\\DAY13_1\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "DAY13_1\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\NET\\DAY13_1\\DAY13_1\\Models\\Enrollment.cs",
+              "RelativeToolTip": "DAY13_1\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:41:22.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\NET\\DAY13_1\\DAY13_1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "DAY13_1\\Models\\Course.cs",
+              "ToolTip": "D:\\NET\\DAY13_1\\DAY13_1\\Models\\Course.cs",
+              "RelativeToolTip": "DAY13_1\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:40:28.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "D:\\NET\\DAY13_1\\DAY13_1\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "DAY13_1\\Models\\Learner.cs",
+              "ToolTip": "D:\\NET\\DAY13_1\\DAY13_1\\Models\\Learner.cs",
+              "RelativeToolTip": "DAY13_1\\Models\\Learner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:39:43.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Major.cs",
+              "DocumentMoniker": "D:\\NET\\DAY13_1\\DAY13_1\\Models\\Major.cs",
+              "RelativeDocumentMoniker": "DAY13_1\\Models\\Major.cs",
+              "ToolTip": "D:\\NET\\DAY13_1\\DAY13_1\\Models\\Major.cs",
+              "RelativeToolTip": "DAY13_1\\Models\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T14:38:17.286Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

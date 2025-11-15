@@ -1,0 +1,74 @@
+﻿@model IEnumerable<DAY13_1.Models.Learner>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+@await Component.InvokeAsync("Major");
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<div id="content">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>
+                    ID
+                </th>
+                <th>
+                    Tên
+                </th>
+                <th>
+                    Họ
+                </th>
+                <th>
+                    Ngày nhập học
+                </th>
+                <th>
+                    Chức năng
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+    @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LearnerID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstMidName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EnrollmentDate)
+                </td>
+            
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.LearnerID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.LearnerID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.LearnerID">Delete</a>
+                </td>
+            </tr>
+    }
+        </tbody>
+    </table>
+</div>
+@section Scripts {
+    <script>
+        $("li").click(function (e) {
+            var id = $(this).attr("id");
+            //alert(id);
+            $.ajax({
+                url: "LearnerByMajorID",
+                data: { mid: id },
+                success: function (response) {
+                    $("#div#content").html(response);
+                }
+            });
+        });
+    </script>
+}
