@@ -1,0 +1,31 @@
+﻿<div class="left-menu">
+    <ul class="nav flex-column">
+        <li class="nav-item">
+            <a class="nav-link @((ViewContext.RouteData.Values["action"]?.ToString() == "Index") ? "active" : "")"
+               asp-controller="Home" asp-action="Index">Trang chủ</a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link @((ViewContext.RouteData.Values["action"]?.ToString() == "About") ? "active" : "")"
+               asp-controller="Home" asp-action="About">Giới thiệu</a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link @((ViewContext.RouteData.Values["controller"]?.ToString() == "Product") ? "active" : "")"
+               asp-controller="Product" asp-action="Index">Sản phẩm</a>
+        </li>
+    </ul>
+</div>
+
+<style>
+    .left-menu {
+        width: 200px;
+        background: #f5f5f5;
+        padding: 15px;
+        height: 100vh;
+    }
+    .left-menu .nav-link.active {
+        font-weight: bold;
+        color: #007bff;
+    }
+</style>

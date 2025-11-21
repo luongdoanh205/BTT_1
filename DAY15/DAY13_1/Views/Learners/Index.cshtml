@@ -1,0 +1,119 @@
+﻿@model IEnumerable<DAY13_1.Models.Learner>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+@await Component.InvokeAsync("Major");
+
+<form class="d-none d-md-inline-block form-inline ms-auto me-0 me-md-3 my-2 my-md-0">
+    <div class="input-group">
+        <input id="keyword" class="form-control" name="keyword"
+               type="text" placeholder="Search learner" />
+        <button id="btnSearch" class="btn btn-primary" type="button">
+            <i class="fas fa-search"></i>
+        </button>
+    </div>
+</form>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<div id="content">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>
+                    ID
+                </th>
+                <th>
+                    Tên
+                </th>
+                <th>
+                    Họ
+                </th>
+                <th>
+                    Ngày nhập học
+                </th>
+                <th>
+                    Chức năng
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+    @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LearnerID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstMidName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EnrollmentDate)
+                </td>
+            
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.LearnerID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.LearnerID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.LearnerID">Delete</a>
+                </td>
+            </tr>
+    }
+        </tbody>
+    </table>
+    <ul class="pagination">
+        @for (int i = 1; i <= ViewBag.pageNum; i++)
+        {
+            <li class="page-item" page="@i"
+                @(ViewBag.mid != null ? "mid='" + ViewBag.mid + "'" : "")
+                @(ViewBag.keyword != null ? "keyword='" + ViewBag.keyword + "'" : "")>
+                <a class="page-link">@i</a>
+            </li>
+        }
+    </ul>
+</div>
+<script>
+    // Thêm script ajax cho click vào page-item, nút search
+    $('body').on('click', '.li.page-item', function (e) {
+        var page = $(this).attr("page");
+        var mid = $(this).attr("mid");
+        var keyword = $(this).attr("keyword");
+        var data = { mid: mid, keyword: keyword, pageIndex: page };
+        $.ajax({
+            url: "LearnerFilter",
+            data: data,
+            success: function (response) {
+                $("#div#content").html(response);
+            }
+        });
+    });
+
+    $(".nav li").click(function (e) {
+        var id = $(this).attr("id");
+        var data = { mid: id };
+        $.ajax({
+            url: "LearnerFilter",
+            data: data,
+            success: function (response) {
+                $("#div#content").html(response);
+            }
+        });
+    });
+
+    $("#button#btnSearch").click(function (e) {
+        var keyword = $("#keyword").val();
+        var data = { keyword: keyword };
+        $.ajax({
+            url: "LearnerFilter",
+            data: data,
+            success: function (response) {
+                $("#div#content").html(response);
+            }
+        });
+    });
+</script>
